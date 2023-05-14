@@ -1,0 +1,13 @@
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\bin\Debug\BaiTapCuoiKy.exe.config
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\bin\Debug\BaiTapCuoiKy.exe
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\bin\Debug\BaiTapCuoiKy.pdb
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.csprojResolveAssemblyReference.cache
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.Properties.Resources.resources
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.csproj.GenerateResource.Cache
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.exe
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.pdb
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.QLKH.resources
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.TrangChu.resources
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.QLDC.resources
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.ThongKe.resources
+E:\BTTUAN5\BaiTapCuoiKy\BaiTapCuoiKy\obj\Debug\BaiTapCuoiKy.Login.resources

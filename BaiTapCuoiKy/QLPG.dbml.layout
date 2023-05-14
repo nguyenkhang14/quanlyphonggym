@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLPG">
+  <DataContextMoniker Name="/QLPGDataContext" />
+  <nestedChildShapes>
+    <classShape Id="d7f0276a-b324-4ff9-bfcb-d76317d5ccc2" absoluteBounds="0.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/QLPGDataContext/KHACHHANG" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e05f6b0-7a0f-4677-8ac8-0ae7c4983737" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9189ba4d-d160-4be7-b8f0-5c660a257f67" absoluteBounds="3.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/QLPGDataContext/Account" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62681718-8219-4299-ae76-8faf9abeddbc" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="915d1259-749f-485f-97ea-e8c90fe21d12" absoluteBounds="0.75, 3.75, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/QLPGDataContext/DUNGCU" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1deaeb4d-5c30-4907-a66b-dc81347caecc" absoluteBounds="0.765, 4.21, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
